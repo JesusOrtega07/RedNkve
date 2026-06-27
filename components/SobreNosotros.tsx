@@ -61,6 +61,23 @@ const SobreNosotros = () => {
             el talento y el compromiso de los jóvenes se convierten en acción social concreta.
             No solo asistimos a eventos — los protagonizamos.
           </motion.p>
+
+          {/* Senator attribution */}
+          <motion.div
+            initial={{ opacity: 0, y: 16 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.5, delay: 0.3 }}
+            className="inline-flex items-center gap-3 mt-8 bg-melgar-yellow/10 border border-melgar-yellow/20 rounded-2xl px-5 py-3"
+          >
+            <div className="relative w-10 h-10 rounded-full overflow-hidden border-2 border-melgar-yellow/40 flex-shrink-0">
+              <Image src="/senador/senator-melgar.jpeg" alt="Sen. Luis Armando Melgar" fill className="object-cover object-top" />
+            </div>
+            <div className="text-left">
+              <p className="text-melgar-yellow text-[10px] font-black uppercase tracking-widest">Impulsado por</p>
+              <p className="text-gray-900 font-black text-sm leading-tight">Sen. Luis Armando Melgar</p>
+            </div>
+          </motion.div>
         </div>
 
         {/* Pillars */}

@@ -95,6 +95,23 @@ const Footer = () => {
           </div>
         </div>
 
+        {/* Senador strip */}
+        <div className="border-t border-gray-800 pt-8 mb-8">
+          <div className="flex flex-col sm:flex-row items-center gap-4 bg-melgar-yellow/5 border border-melgar-yellow/15 rounded-2xl px-6 py-4">
+            <div className="relative w-10 h-10 rounded-full overflow-hidden border-2 border-melgar-yellow/40 flex-shrink-0">
+              <Image src="/senador/senator-melgar.jpeg" alt="Sen. Luis Armando Melgar" fill className="object-cover object-top" />
+            </div>
+            <div className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-4 text-center sm:text-left flex-1">
+              <div>
+                <p className="text-melgar-yellow text-[10px] font-black uppercase tracking-widest">Una iniciativa del</p>
+                <p className="text-white font-black text-sm">Sen. Luis Armando Melgar · Chiapas</p>
+              </div>
+              <div className="hidden sm:block h-8 w-px bg-gray-700" />
+              <p className="text-gray-500 italic text-sm font-bold">"Tenemos con qué."</p>
+            </div>
+          </div>
+        </div>
+
         {/* Bottom bar */}
         <div className="border-t border-gray-800 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-gray-600">
