@@ -90,7 +90,7 @@ const CrecimientoMapa = () => {
           transition={{ duration: 0.5, delay: 0.5 }}
           className="text-center text-xs text-gray-400 mt-4"
         >
-          Mapa interactivo de secciones electorales · Tapachula, Chiapas
+          Mapa interactivo del Crecimiento de la Red Jovenes Melgar · Tapachula, Chiapas
         </motion.p>
       </div>
     </section>

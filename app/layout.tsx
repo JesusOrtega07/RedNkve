@@ -5,7 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Red Jóvenes Melgar — Tenemos con qué",
   description:
-    "Organización juvenil comprometida con el impacto social en Chiapas. Servicio, formación y participación ciudadana para los jóvenes de Tapachula.",
+    "Asociación juvenil comprometida con el impacto social en Chiapas. Servicio, formación y participación ciudadana para los jóvenes de Tapachula.",
   keywords: "Red Jóvenes Melgar, Chiapas, Tapachula, juventud, impacto social, Luis Armando Melgar",
   openGraph: {
     title: "Red Jóvenes Melgar",

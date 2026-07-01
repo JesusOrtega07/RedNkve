@@ -47,7 +47,7 @@ const CTAComunidad = () => {
               className="text-gray-300 text-lg max-w-xl mx-auto mb-10"
             >
               Síguenos en redes sociales, participa en nuestros eventos y forma parte
-              de la comunidad juvenil más activa de Chiapas.
+              de la comunidad juvenil más activa de Tapachula.
             </motion.p>
 
             {/* Stats */}

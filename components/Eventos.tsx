@@ -52,6 +52,42 @@ const eventos: Evento[] = [
     video: "/eventos/segundo-partido/partido.mov",
     link: "https://www.instagram.com/p/DZrE7U1tDxf/?igsh=bWpwdWMzdGJtNHNi",
   },
+  {
+    slug: "torneo-futbol",
+    title: "Torneo de Futbol.",
+    date: "¡¡¡PROXIMAMENTE!!!",
+    location: "Tapachula, Chiapas",
+    tags: ["Mundial", "Futbol", "Deportes"],
+    description:
+      "La Red volvió a reunirse para vivir juntos el Segundo Partido de México. Más que un evento deportivo, fue un espacio de convivencia, pertenencia y orgullo chiapaneco que sigue construyendo nuestra identidad como comunidad.",
+    image: "/eventos/evento-futbol/EventoFutbol.PNG",
+    video: null,
+    link: "https://www.instagram.com/p/DZrE7U1tDxf/?igsh=bWpwdWMzdGJtNHNi",
+  },
+  {
+    slug: "playa",
+    title: "Limpiemos nuestras playas.",
+    date: "¡¡¡PROXIMAMENTE!!!",
+    location: "Tapachula, Chiapas",
+    tags: ["Comunidad", "Conciencia"],
+    description:
+      "La Red volvió a reunirse para vivir juntos el Segundo Partido de México. Más que un evento deportivo, fue un espacio de convivencia, pertenencia y orgullo chiapaneco que sigue construyendo nuestra identidad como comunidad.",
+    image: "/eventos/playa/playa.PNG",
+    video: null,
+    link: "https://www.instagram.com/p/DZrE7U1tDxf/?igsh=bWpwdWMzdGJtNHNi",
+  },
+  {
+    slug: "bazar",
+    title: "Bazar Juvenil",
+    date: "¡¡¡PROXIMAMENTE!!!",
+    location: "Tapachula, Chiapas",
+    tags: ["Comunidad", "Conciencia"],
+    description:
+      "La Red volvió a reunirse para vivir juntos el Segundo Partido de México. Más que un evento deportivo, fue un espacio de convivencia, pertenencia y orgullo chiapaneco que sigue construyendo nuestra identidad como comunidad.",
+    image: "/eventos/bazar/bazar.PNG",
+    video: null,
+    link: "https://www.instagram.com/p/DZrE7U1tDxf/?igsh=bWpwdWMzdGJtNHNi",
+  },
 ];
 
 const EventoCard = ({ evento, index }: { evento: Evento; index: number }) => (

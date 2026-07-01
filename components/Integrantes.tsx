@@ -55,7 +55,7 @@ const senador: Integrante = {
   cargo: "Fundador del Movimiento",
   imagen: "/senador/senator-melgar.jpeg",
   instagram: "https://www.instagram.com/red_jovenes_melgar/",
-  instagramHandle: "@red_jovenes_melgar",
+  instagramHandle: "@luismelgarchiapas",
   frase: "Los jóvenes no son el futuro. Son el presente de Chiapas.",
 };
 

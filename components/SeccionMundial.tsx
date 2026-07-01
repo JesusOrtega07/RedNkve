@@ -114,7 +114,7 @@ const dt: DT = {
     "Este equipo no necesita que yo juegue. Necesita que yo confíe en ellos. Y lo hago.",
   imagen: "/mundial/senador.jpeg",
   instagram: "https://www.instagram.com/red_jovenes_melgar/",
-  instagramHandle: "@red_jovenes_melgar",
+  instagramHandle: "@luismelgarchiapas",
 };
 
 // ─── Instagram Icon ───────────────────────────────────────────────────────────

@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 const pillars = [
   {
     number: "01",
-    title: "Raíces en Chiapas",
+    title: "Raíces en Tapachula",
     description:
       "Nacimos en Tapachula con un propósito claro: ser el espacio donde los jóvenes chiapanecos encuentren voz, acción y comunidad. Nuestra identidad es local, nuestro impacto es real.",
   },
@@ -48,7 +48,7 @@ const SobreNosotros = () => {
           >
             Jóvenes que construyen
             <br />
-            <span className="text-melgar-green">el Chiapas que queremos.</span>
+            <span className="text-melgar-green">el Tapachula que queremos.</span>
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}

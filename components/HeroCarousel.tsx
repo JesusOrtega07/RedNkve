@@ -89,7 +89,7 @@ const HeroCarousel = () => {
           transition={{ delay: 0.6, duration: 0.6 }}
           className="text-gray-300 text-lg md:text-xl leading-relaxed max-w-2xl mx-auto mb-10"
         >
-          Somos la estructura juvenil que está cambiando Chiapas desde adentro.
+          Somos la estructura juvenil que está cambiando Tapachula desde adentro.
           Servicio, formación y participación ciudadana para los jóvenes que quieren hacer la diferencia.
         </motion.p>
 
