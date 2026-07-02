@@ -43,7 +43,7 @@ const integrantes: Integrante[] = [
   {
     nombre: "Lupita",
     cargo: "Líder de Difusión",
-    imagen: null,
+    imagen: "integrantes/lupita.HEIC",
     instagram: "https://www.instagram.com/arisaa_fg/",
     instagramHandle: "@arisaa_fg",
     frase: "Cada mensaje que enviamos es una semilla que sembramos.",
