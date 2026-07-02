@@ -19,7 +19,6 @@ const HomePage = () => {
       <Eventos />
       <SeccionMundial />
       <Integrantes />
-      <CrecimientoMapa />
       <SenadorQuote />
       <CTAComunidad />
       <Footer />

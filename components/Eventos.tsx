@@ -36,8 +36,8 @@ const eventos: Evento[] = [
     tags: ["Comunidad", "Deportes"],
     description:
       "La Red Jóvenes Melgar se unió a la emoción del Primer Partido de México en la Copa del Mundo 2026. Una noche de comunidad, identidad nacional y energía juvenil que nos recordó que celebrar juntos también es hacer comunidad.",
-    image: "/eventos/primer-partido/cover.jpg",
-    video: null,
+    image: null,
+    video: "/eventos/primer-partido/cover.MOV",
     link: "https://www.instagram.com/p/DZWXbV9Nx2E/?igsh=MXVkdjk3ZHRnd3pqOQ==",
   },
   {
